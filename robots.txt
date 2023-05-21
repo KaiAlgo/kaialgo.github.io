@@ -3,5 +3,5 @@ Disallow:
 Allow: /
 Allow: /www
 
-Sitemap: https://akepinski.me/sitemap.xml
+Sitemap: https://kaialgo.github.io/sitemap.xml
 
